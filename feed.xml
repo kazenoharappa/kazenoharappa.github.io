@@ -3,24 +3,24 @@
     <title>ローカルネット大分・日出生台</title>
     <link href="https://localnet.harappacafe.net/feed.xml" rel="self" />
     <link href="https://localnet.harappacafe.net" />
-    <updated>2025-11-24T21:47:13+09:00</updated>
+    <updated>2025-11-24T22:33:34+09:00</updated>
     <author>
         <name>Ryuji Urata</name>
     </author>
     <id>https://localnet.harappacafe.net</id>
 
     <entry>
-        <title>テスト</title>
+        <title>テスト２</title>
         <author>
             <name>Ryuji Urata</name>
         </author>
-        <link href="https://localnet.harappacafe.net/posts/tesuto/"/>
-        <id>https://localnet.harappacafe.net/posts/tesuto/</id>
+        <link href="https://localnet.harappacafe.net/posts/tesuto2/"/>
+        <id>https://localnet.harappacafe.net/posts/tesuto2/</id>
 
-        <updated>2025-11-24T21:47:13+09:00</updated>
+        <updated>2025-11-24T22:33:34+09:00</updated>
             <summary type="html">
                 <![CDATA[
-                    テスト投稿
+                    本文もテストです
                 ]]>
             </summary>
         <content></content>
